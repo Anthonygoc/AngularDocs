@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/header.png">
+  <img src="assets/header.png">
 </p>
 
 > 👨‍🚀 **Repo com o propósito de estudos**
